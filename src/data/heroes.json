@@ -1,0 +1,2329 @@
+[
+  {
+    "id": "valhein",
+    "name": "Valhein",
+    "wikiName": "Valhein",
+    "title": "The Demon Hunter",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/1c/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Valhein.png/revision/latest?cb=20220920140524&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "26 ธ.ค. 2016"
+  },
+  {
+    "id": "zanis",
+    "name": "Zanis",
+    "wikiName": "Zanis",
+    "title": "The Dragon Knight",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/f4/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Zanis.png/revision/latest?cb=20230424074920&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "yorn",
+    "name": "Yorn",
+    "wikiName": "Yorn",
+    "title": "The Light of Dawn",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/35/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Yorn.png/revision/latest?cb=20230204051711&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "thane",
+    "name": "Thane",
+    "wikiName": "Thane",
+    "title": "The Protector",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/e2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Thane.png/revision/latest?cb=20221009123220&path-prefix=th",
+    "roleTh": "แทงค์",
+    "roles": [
+      "Tank"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "krixi",
+    "name": "Krixi",
+    "wikiName": "Krixi",
+    "title": "The Pixie",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/f2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Krixi.png/revision/latest?cb=20221009123233&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "2888 / 270"
+  },
+  {
+    "id": "ormarr",
+    "name": "Ormarr",
+    "wikiName": "Ormarr",
+    "title": "The Frenzy",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/a2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ormarr.png/revision/latest?cb=20221009124212&path-prefix=th",
+    "roleTh": "แทงค์",
+    "roles": [
+      "Tank"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "zephys",
+    "name": "Zephys",
+    "wikiName": "Zephys",
+    "title": "Messenger of Elysium",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/7/7c/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Zephys.png/revision/latest/scale-to-width-down/100?cb=20241011053353&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "lu-bu",
+    "name": "Lu Bu",
+    "wikiName": "Lu Bu",
+    "title": "The Peerless Warlord",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/4a/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Lu_Bu.png/revision/latest?cb=20230424075425&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "18888 / 490"
+  },
+  {
+    "id": "alice",
+    "name": "Alice",
+    "wikiName": "Alice",
+    "title": "The Mystic of Capricorn",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/49/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Alice.png/revision/latest?cb=20221009123502&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "mganga",
+    "name": "Mganga",
+    "wikiName": "Mganga",
+    "title": "The Unspeakable",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/a0/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Mganga.png/revision/latest?cb=20230204052038&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ฟื้นฟู",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "gildur",
+    "name": "Gildur",
+    "wikiName": "Gildur",
+    "title": "The Gilded",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/95/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Gildur.png/revision/latest/scale-to-width-down/100?cb=20241011053353&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly",
+    "wikiName": "Butterfly",
+    "title": "Death's Whisper",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/ab/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Butterfly.png/revision/latest?cb=20241123022731&path-prefix=th",
+    "roleTh": "แอสซาซิน/ ไฟต์เตอร์",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "สังหารต่อเนื่อง",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "2888 / 270"
+  },
+  {
+    "id": "taara",
+    "name": "Taara",
+    "wikiName": "Taara",
+    "title": "The Warhammer",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Taara.png/revision/latest?cb=20230204052058&path-prefix=th",
+    "roleTh": "แทงค์/ ไฟต์เตอร์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ฟื้นฟู",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "2888 / 270"
+  },
+  {
+    "id": "toro",
+    "name": "Toro",
+    "wikiName": "Toro",
+    "title": "The Bull King",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/f0/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Toro.png/revision/latest?cb=20230204052447&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "2888 / 270"
+  },
+  {
+    "id": "mina",
+    "name": "Mina",
+    "wikiName": "Mina",
+    "title": "The Reaper Queen",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/39/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Mina.png/revision/latest?cb=20221009123750&path-prefix=th",
+    "roleTh": "แทงค์",
+    "roles": [
+      "Tank"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "2888 / 270"
+  },
+  {
+    "id": "veera",
+    "name": "Veera",
+    "wikiName": "Veera",
+    "title": "Harvester of Souls",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/b/b5/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2_Veera.png/revision/latest/scale-to-width-down/100?cb=20241011053444&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "เบิร์สดาเมจ",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "kahlii",
+    "name": "Kahlii",
+    "wikiName": "Kahlii",
+    "title": "The Aspect of Vengeance",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/45/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Kahlii.png/revision/latest?cb=20221009123834&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "18888 / 370"
+  },
+  {
+    "id": "azzen-ka",
+    "name": "Azzen'Ka",
+    "wikiName": "Azzen'Ka",
+    "title": "The Forgotten",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/66/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Azzen%27Ka.png/revision/latest?cb=20230213144021&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "chaugnar",
+    "name": "Chaugnar",
+    "wikiName": "Chaugnar",
+    "title": "Herald of Void",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/8/8b/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Chaugnar.png/revision/latest?cb=20221009124016&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "omega",
+    "name": "Omega",
+    "wikiName": "Omega",
+    "title": "The Sentient Mech",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/da/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Omega.png/revision/latest?cb=20230424075615&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "13888 / 270"
+  },
+  {
+    "id": "violet",
+    "name": "Violet",
+    "wikiName": "Violet",
+    "title": "The Pistol Assassin",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/e1/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Violet.png/revision/latest?cb=20230204051746&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "3 ม.ค. 2017"
+  },
+  {
+    "id": "diao-chan",
+    "name": "Diao Chan",
+    "wikiName": "Diao Chan",
+    "title": "The Crystal Lotus",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/a2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Diao_Chan.png/revision/latest?cb=20230424075716&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "10 ม.ค. 2017"
+  },
+  {
+    "id": "nakroth",
+    "name": "Nakroth",
+    "wikiName": "Nakroth",
+    "title": "Executioner's Blade",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/5/57/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Nakroth.png/revision/latest?cb=20221011042725&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "17 ม.ค. 2017"
+  },
+  {
+    "id": "grakk",
+    "name": "Grakk",
+    "wikiName": "Grakk",
+    "title": "The Glutton",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/96/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Grakk.png/revision/latest?cb=20221011042741&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "24 ม.ค. 2017"
+  },
+  {
+    "id": "fennik",
+    "name": "Fennik",
+    "wikiName": "Fennik",
+    "title": "Flash Warfox",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/db/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Fennik.png/revision/latest?cb=20221011042801&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลน Abyssal Dragon ฟาร์มป่า",
+    "lanes": [
+      "Jungle",
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "31 ม.ค. 2017"
+  },
+  {
+    "id": "aleister",
+    "name": "Aleister",
+    "wikiName": "Aleister",
+    "title": "Lord of Mischief",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/1f/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2_Aleister.png/revision/latest/scale-to-width-down/100?cb=20241011053443&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "7 ก.พ. 2017"
+  },
+  {
+    "id": "lumburr",
+    "name": "Lumburr",
+    "wikiName": "Lumburr",
+    "title": "Earth Element",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/a3/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Lumburr.png/revision/latest?cb=20221011042831&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "16 ม.ค. 2017"
+  },
+  {
+    "id": "payna",
+    "name": "Payna",
+    "wikiName": "Payna",
+    "title": "Faerie Guardian",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/5/5d/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Payna.png/revision/latest?cb=20221011043100&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "ฟื้นฟู",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "22 ก.พ. 2017"
+  },
+  {
+    "id": "natalya",
+    "name": "Natalya",
+    "wikiName": "Natalya",
+    "title": "The Nether Queen",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/6f/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Natalya.png/revision/latest?cb=20230204052137&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "เบิร์สดาเมจ",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "28 ก.พ. 2017"
+  },
+  {
+    "id": "cresht",
+    "name": "Cresht",
+    "wikiName": "Cresht",
+    "title": "The Mermidon",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/f8/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Cresht.png/revision/latest?cb=20230204051843&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "7 มี.ค. 2017"
+  },
+  {
+    "id": "jinna",
+    "name": "Jinna",
+    "wikiName": "Jinna",
+    "title": "Zen Master",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/3c/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Jinna.png/revision/latest?cb=20230212045328&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "14 มี.ค. 2017"
+  },
+  {
+    "id": "maloch",
+    "name": "Maloch",
+    "wikiName": "Maloch",
+    "title": "Lord of the Abyss",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/43/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Maloch.png/revision/latest?cb=20230212035622&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แทงค์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ความเสียหายจริง",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "24 มี.ค. 2017"
+  },
+  {
+    "id": "ilumia",
+    "name": "Ilumia",
+    "wikiName": "Ilumia",
+    "title": "The High Goddess",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/8/86/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ilumia.png/revision/latest?cb=20221011043213&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "4 เม.ย. 2017"
+  },
+  {
+    "id": "wukong",
+    "name": "WuKong",
+    "wikiName": "WuKong",
+    "title": "The Monkey King",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/17/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_WuKong.png/revision/latest?cb=20221011043239&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/เบิร์สดาเมจ",
+    "laneTh": "ฟาร์มป่า เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "11 เม.ย. 2017"
+  },
+  {
+    "id": "kriknak",
+    "name": "Kriknak",
+    "wikiName": "Kriknak",
+    "title": "The Scarabim",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/5/53/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Kriknak.png/revision/latest?cb=20221011043259&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/เบิร์สดาเมจ",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "18 เม.ย.2017"
+  },
+  {
+    "id": "mortos",
+    "name": "Mortos",
+    "wikiName": "Mortos",
+    "title": "The Chosen",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/0f/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2_Mortos.png/revision/latest?cb=20241011054259&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "25 เม.ย. 2017"
+  },
+  {
+    "id": "batman",
+    "name": "Batman",
+    "wikiName": "Batman",
+    "title": "The Dark Knight",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/39/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Batman.png/revision/latest?cb=20221011043335&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "หายตัว",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "1 พ.ค. 2017"
+  },
+  {
+    "id": "slimz",
+    "name": "Slimz",
+    "wikiName": "Slimz",
+    "title": "The Trustworthy",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/ef/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Slimz.png/revision/latest?cb=20221011043353&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "เลทเกม/ว่องไว",
+    "laneTh": "เลน Abyssal Dragon ฟาร์มป่า",
+    "lanes": [
+      "Jungle",
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "9 พ.ค. 2017"
+  },
+  {
+    "id": "preyta",
+    "name": "Preyta",
+    "wikiName": "Preyta",
+    "title": "The Illest",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/dc/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Preyta.png/revision/latest?cb=20221011043408&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "23 พ.ค. 2017"
+  },
+  {
+    "id": "skud",
+    "name": "Skud",
+    "wikiName": "Skud",
+    "title": "The Smasher",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/15/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Skud.png/revision/latest?cb=20230424080131&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แทงค์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "1 มิ.ย. 2017"
+  },
+  {
+    "id": "airi",
+    "name": "Airi",
+    "wikiName": "Airi",
+    "title": "Shadow Dragon Ninja",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/01/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Airi.png/revision/latest/scale-to-width-down/100?cb=20241011053353&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer ฟาร์มป่า",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "13 มิ.ย. 2017"
+  },
+  {
+    "id": "ignis",
+    "name": "Ignis",
+    "wikiName": "Ignis",
+    "title": "The Anointed One",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/e2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ignis.png/revision/latest?cb=20221011043517&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "23 มิ.ย. 2017"
+  },
+  {
+    "id": "zuka",
+    "name": "Zuka",
+    "wikiName": "Zuka",
+    "title": "The Pandaharma Master",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/48/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Zuka.png/revision/latest?cb=20230204051822&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer ฟาร์มป่า",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "4 ก.ค. 2017"
+  },
+  {
+    "id": "raz",
+    "name": "Raz",
+    "wikiName": "Raz",
+    "title": "Fist King",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/13/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Raz.png/revision/latest?cb=20221011043555&path-prefix=th",
+    "roleTh": "เมจ/ แอสซาซิน",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "13 ก.ค. 2017"
+  },
+  {
+    "id": "murad",
+    "name": "Murad",
+    "wikiName": "Murad",
+    "title": "The Wanderer",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/b/be/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Murad.png/revision/latest?cb=20221011043608&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ไม่สามารถจับต้องได้",
+    "laneTh": "ฟาร์มป่า เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "25 ก.ค. 2017"
+  },
+  {
+    "id": "zill",
+    "name": "Zill",
+    "wikiName": "Zill",
+    "title": "The Tempest",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d1/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Zill.png/revision/latest?cb=20221011043625&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ไม่สามารถจับต้องได้",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "7 ส.ค. 2017"
+  },
+  {
+    "id": "lauriel",
+    "name": "Lauriel",
+    "wikiName": "Lauriel",
+    "title": "The Archangle",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d4/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Lauriel.png/revision/latest?cb=20221011043638&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ไม่สามารถจับต้องได้",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "17 ส.ค. 2017"
+  },
+  {
+    "id": "the-joker",
+    "name": "The Joker",
+    "wikiName": "The Joker",
+    "title": "The Clown Prince of Crime",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/03/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_The_Joker.png/revision/latest?cb=20221025061734&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "อมตะ",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "29 ส.ค. 2017"
+  },
+  {
+    "id": "arduin",
+    "name": "Arduin",
+    "wikiName": "Arduin",
+    "title": "The Spirit",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d8/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Arduin.png/revision/latest?cb=20221025061803&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แทงค์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "8 ก.ย. 2017"
+  },
+  {
+    "id": "astrid",
+    "name": "Astrid",
+    "wikiName": "Astrid",
+    "title": "The Indomitable",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/8/8e/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Astrid.png/revision/latest?cb=20221025061832&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ควบคุม/ฟาร์ม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "18 ก.ย. 2017"
+  },
+  {
+    "id": "tel-annas",
+    "name": "Tel'Annas",
+    "wikiName": "Tel'Annas",
+    "title": "The Ageless",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/28/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Tel%27Annas.png/revision/latest/scale-to-width-down/100?cb=20241011053353&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "1 ต.ค. 2017"
+  },
+  {
+    "id": "kil-groth",
+    "name": "Kil'Groth",
+    "wikiName": "Kil'Groth",
+    "title": "The Terror",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/8/82/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Kil%27Groth.png/revision/latest?cb=20221025062049&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ฟาร์ม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "10 ต.ค. 2017"
+  },
+  {
+    "id": "ryoma",
+    "name": "Ryoma",
+    "wikiName": "Ryoma",
+    "title": "The Ronin",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/35/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ryoma.png/revision/latest?cb=20221025062329&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/เบิร์สดาเมจ",
+    "laneTh": "เลน Dark Slayer ฟาร์มป่า",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "20 ต.ค. 2017"
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "wikiName": "Superman",
+    "title": "The Man of Steel",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/c7/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Superman.png/revision/latest?cb=20221025062407&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "4 พ.ย. 2017"
+  },
+  {
+    "id": "wonder-woman",
+    "name": "Wonder Woman",
+    "wikiName": "Wonder Woman",
+    "title": "Amazon of Themyscira",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/62/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Wonder_Woman.png/revision/latest?cb=20221025062609&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "18 พ.ย. 2017"
+  },
+  {
+    "id": "moren",
+    "name": "Moren",
+    "wikiName": "Moren",
+    "title": "The Technowiz",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/64/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Moren.png/revision/latest?cb=20221025062705&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "เลทเกม",
+    "laneTh": "เลน Abyssal Dragon ฟาร์มป่า",
+    "lanes": [
+      "Jungle",
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "2 ธ.ค. 2017"
+  },
+  {
+    "id": "xeniel",
+    "name": "Xeniel",
+    "wikiName": "Xeniel",
+    "title": "The Immaculate",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/38/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Xeniel.png/revision/latest?cb=20221025062737&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "22 ธ.ค. 2017"
+  },
+  {
+    "id": "lindis",
+    "name": "Lindis",
+    "wikiName": "Lindis",
+    "title": "The Sentinel",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/35/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Lindis.png/revision/latest?cb=20221025062837&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ว่องไว/ฟาร์ม",
+    "laneTh": "ฟาร์มป่า เลน Abyssal Dragon",
+    "lanes": [
+      "Jungle",
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "13 ม.ค. 2018"
+  },
+  {
+    "id": "teemee",
+    "name": "TeeMee",
+    "wikiName": "TeeMee",
+    "title": "The Stalwart Twins",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/66/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_TeeMee.png/revision/latest?cb=20221025062959&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "26 ม.ค. 2018"
+  },
+  {
+    "id": "tulen",
+    "name": "Tulen",
+    "wikiName": "Tulen",
+    "title": "The Pure",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/41/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Tulen.png/revision/latest/scale-to-width-down/100?cb=20241011053351&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "เบิร์สดาเมจ",
+    "laneTh": "ฟาร์มป่า เลนกลาง",
+    "lanes": [
+      "Jungle",
+      "Mid"
+    ],
+    "releaseDate": "9 ก.พ. 2018"
+  },
+  {
+    "id": "omen",
+    "name": "Omen",
+    "wikiName": "Omen",
+    "title": "The Insatiable",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/af/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Omen.png/revision/latest?cb=20221025063101&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "1 มี.ค. 2018"
+  },
+  {
+    "id": "max",
+    "name": "Max",
+    "wikiName": "Max",
+    "title": "The Wunderkind",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/12/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Max.png/revision/latest?cb=20221025063143&path-prefix=th",
+    "roleTh": "แทงค์",
+    "roles": [
+      "Tank"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "16 มี.ค. 2018"
+  },
+  {
+    "id": "liliana",
+    "name": "Liliana",
+    "wikiName": "Liliana",
+    "title": "Nine-tailed Fox",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/33/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Liliana.png/revision/latest?cb=20221025063216&path-prefix=th",
+    "roleTh": "เมจ/ แอสซาซิน",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "traitTh": "เบิร์สดาเมจ",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "4 เม.ย. 2018"
+  },
+  {
+    "id": "wisp",
+    "name": "Wisp",
+    "wikiName": "Wisp",
+    "title": "The Firecracker",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/98/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Wisp.png/revision/latest?cb=20221201141234&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "เลทเกม",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "27 เม.ย. 2018"
+  },
+  {
+    "id": "the-flash",
+    "name": "The Flash",
+    "wikiName": "The Flash",
+    "title": "The Fastest Man Alive",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/5/5e/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_The_Flash.png/revision/latest?cb=20221201141255&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "11 พ.ค. 2018"
+  },
+  {
+    "id": "arum",
+    "name": "Arum",
+    "wikiName": "Arum",
+    "title": "The Conjurer",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d1/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Arum.png/revision/latest?cb=20221201141313&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "30 พ.ค. 2018"
+  },
+  {
+    "id": "rourke",
+    "name": "Rourke",
+    "wikiName": "Rourke",
+    "title": "The Captain",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/31/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Rourke.png/revision/latest?cb=20221201141346&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ฟาร์ม",
+    "laneTh": "ฟาร์มป่า เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "15 มิ.ย. 2018"
+  },
+  {
+    "id": "marja",
+    "name": "Marja",
+    "wikiName": "Marja",
+    "title": "The Ash Weaver",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/1a/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Marja.png/revision/latest?cb=20221201141408&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "28 มิ.ย. 2018"
+  },
+  {
+    "id": "baldum",
+    "name": "Baldum",
+    "wikiName": "Baldum",
+    "title": "The Monolith",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/49/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Baldum.png/revision/latest?cb=20221201141423&path-prefix=th",
+    "roleTh": "แทงค์/ ซัพพอร์ต",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "14 ก.ค. 2018"
+  },
+  {
+    "id": "roxie",
+    "name": "Roxie",
+    "wikiName": "Roxie",
+    "title": "The Adventurer",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/38/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_Roxie.png/revision/latest/scale-to-width-down/100?cb=20241011053353&path-prefix=th",
+    "roleTh": "แทงค์/ ไฟต์เตอร์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "28 ก.ค. 2018"
+  },
+  {
+    "id": "annette",
+    "name": "Annette",
+    "wikiName": "Annette",
+    "title": "The Diviner",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/49/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Annette.png/revision/latest?cb=20221201141703&path-prefix=th",
+    "roleTh": "ซัพพอร์ต/ เมจ",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง เลนกลาง",
+    "lanes": [
+      "Mid",
+      "Roam"
+    ],
+    "releaseDate": "18 ส.ค. 2018"
+  },
+  {
+    "id": "amily",
+    "name": "Amily",
+    "wikiName": "Amily",
+    "title": "The Crusher",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/25/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Amily.png/revision/latest?cb=20221201141718&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer ฟาร์มป่า",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "1 ก.ย. 2018"
+  },
+  {
+    "id": "y-bneth",
+    "name": "Y'bneth",
+    "wikiName": "Y'bneth",
+    "title": "The Old Growth",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/41/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Y%27bneth.png/revision/latest?cb=20221201141945&path-prefix=th",
+    "roleTh": "แทงค์",
+    "roles": [
+      "Tank"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "22 ก.ย. 2018"
+  },
+  {
+    "id": "elsu",
+    "name": "Elsu",
+    "wikiName": "Elsu",
+    "title": "The Soaring Falcon",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/38/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Elsu.png/revision/latest?cb=20221201142001&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "5 ต.ค. 2018"
+  },
+  {
+    "id": "riktor",
+    "name": "Riktor",
+    "wikiName": "Riktor",
+    "title": "The Imbued",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/3f/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Riktor.png/revision/latest?cb=20221201142019&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "19 ต.ค. 2018"
+  },
+  {
+    "id": "wiro",
+    "name": "Wiro",
+    "wikiName": "Wiro",
+    "title": "The 212 Warrior",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/18/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Wiro.png/revision/latest?cb=20221201142042&path-prefix=th",
+    "roleTh": "แทงค์/ ไฟต์เตอร์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer โรมมิ่ง",
+    "lanes": [
+      "Dark Slayer",
+      "Roam"
+    ],
+    "releaseDate": "9 พ.ย. 2018"
+  },
+  {
+    "id": "quillen",
+    "name": "Quillen",
+    "wikiName": "Quillen",
+    "title": "Purifying Blade",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/a9/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Quillen.png/revision/latest?cb=20221201142101&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "หายตัว/สังหารต่อเนื่อง",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "23 พ.ย. 2018"
+  },
+  {
+    "id": "sephera",
+    "name": "Sephera",
+    "wikiName": "Sephera",
+    "title": "The Water Ascendant",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/e8/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Sephera.png/revision/latest?cb=20221201142125&path-prefix=th",
+    "roleTh": "เมจ/ ซัพพอร์ต",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "traitTh": "ฟื้นฟู",
+    "laneTh": "โรมมิ่ง เลนกลาง",
+    "lanes": [
+      "Mid",
+      "Roam"
+    ],
+    "releaseDate": "10 ธ.ค. 2019 (Valor Pass) 21 ม.ค. 2019 (เปิดขาย)"
+  },
+  {
+    "id": "florentino",
+    "name": "Florentino",
+    "wikiName": "Florentino",
+    "title": "The Gentle Blade",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/2b/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Florentino.png/revision/latest?cb=20230107034725&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ต้านสถานะ",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "1 ม.ค. 2019"
+  },
+  {
+    "id": "veres",
+    "name": "Veres",
+    "wikiName": "Veres",
+    "title": "The Thorn",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/63/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Veres.png/revision/latest?cb=20230107034803&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "25 ม.ค. 2019"
+  },
+  {
+    "id": "d-arcy",
+    "name": "D'Arcy",
+    "wikiName": "D'Arcy",
+    "title": "The Archmagus",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/ee/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_D%27Arcy.png/revision/latest?cb=20230107034821&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "เบิร์สดาเมจ",
+    "laneTh": "เลนกลาง ฟาร์มป่า",
+    "lanes": [
+      "Jungle",
+      "Mid"
+    ],
+    "releaseDate": "19 ก.พ. 2019"
+  },
+  {
+    "id": "hayate",
+    "name": "Hayate",
+    "wikiName": "Hayate",
+    "title": "The Ghostwalker",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/f2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Hayate.png/revision/latest?cb=20230107034924&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ความเสียหายจริง",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "11 มี.ค. 2019 (Valor Pass)"
+  },
+  {
+    "id": "capheny",
+    "name": "Capheny",
+    "wikiName": "Capheny",
+    "title": "The Gunner",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/fd/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Capheny.png/revision/latest?cb=20230107034945&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "3 เม.ย. 2019"
+  },
+  {
+    "id": "errol",
+    "name": "Errol",
+    "wikiName": "Errol",
+    "title": "The Tainted",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/c9/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Errol.png/revision/latest?cb=20230116061400&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "เลน Dark Slayer ฟาร์มป่า",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "22 เม.ย. 2019 (Valor Pass)"
+  },
+  {
+    "id": "yena",
+    "name": "Yena",
+    "wikiName": "Yena",
+    "title": "The Crescent Maiden",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/33/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Yena.png/revision/latest?cb=20230107040203&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ต้านสถานะ",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "4 มิ.ย. 2019 (Valor Pass)"
+  },
+  {
+    "id": "enzo",
+    "name": "Enzo",
+    "wikiName": "Enzo",
+    "title": "Heretic's Bane",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/8/8c/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Enzo.png/revision/latest?cb=20230107040234&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "ฟาร์มป่า เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "28 มิ.ย. 2019"
+  },
+  {
+    "id": "zip",
+    "name": "Zip",
+    "wikiName": "Zip",
+    "title": "The Speed Demon",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/24/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Zip.png/revision/latest?cb=20230108080308&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "16 ก.ค. 2019 (Valor Pass)"
+  },
+  {
+    "id": "qi",
+    "name": "Qi",
+    "wikiName": "Qi",
+    "title": "The Brawler",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/46/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Qi.png/revision/latest?cb=20230107040250&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "9 ส.ค. 2019"
+  },
+  {
+    "id": "celica",
+    "name": "Celica",
+    "wikiName": "Celica",
+    "title": "Strawberry Menace",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/ca/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Celica.png/revision/latest?cb=20230107040308&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "เลทเกม",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "6 ก.ย. 2019"
+  },
+  {
+    "id": "volkath",
+    "name": "Volkath",
+    "wikiName": "Volkath",
+    "title": "Lord of Darkness",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/96/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Volkath.png/revision/latest?cb=20230212035741&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "อมตะ",
+    "laneTh": "ฟาร์มป่า เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "7 ต.ค. 2019 (Valor Pass)"
+  },
+  {
+    "id": "krizzix",
+    "name": "Krizzix",
+    "wikiName": "Krizzix",
+    "title": "The Deceiver",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/9d/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Krizzix.png/revision/latest?cb=20230408075505&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "หายตัว/สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "31 ต.ค. 2019"
+  },
+  {
+    "id": "eland-orr",
+    "name": "Eland'orr",
+    "wikiName": "Eland'orr",
+    "title": "Night Ranger",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/b/b2/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Eland%27orr.png/revision/latest?cb=20230116065201&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ว่องไว/ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "4 พ.ย. 2019 (Valor Pass)"
+  },
+  {
+    "id": "ishar",
+    "name": "Ishar",
+    "wikiName": "Ishar",
+    "title": "The Summoner Apprentice",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/9b/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ishar.png/revision/latest?cb=20230116065224&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "8 ธ.ค. 2019"
+  },
+  {
+    "id": "dirak",
+    "name": "Dirak",
+    "wikiName": "Dirak",
+    "title": "Supreme Mage",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/ae/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Dirak.png/revision/latest?cb=20230116065345&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "30 ธ.ค. 2019 (Valor Pass)"
+  },
+  {
+    "id": "keera",
+    "name": "Keera",
+    "wikiName": "Keera",
+    "title": "The Nightingale",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d9/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Keera.png/revision/latest?cb=20230116065805&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "7 ก.พ. 2020"
+  },
+  {
+    "id": "ata",
+    "name": "Ata",
+    "wikiName": "Ata",
+    "title": "The Anchor",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/01/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ata.png/revision/latest?cb=20230116070007&path-prefix=th",
+    "roleTh": "แทงค์/ ไฟต์เตอร์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "28 ก.พ. 2020"
+  },
+  {
+    "id": "paine",
+    "name": "Paine",
+    "wikiName": "Paine",
+    "title": "Soul Elegy",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/7/73/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Paine.png/revision/latest?cb=20230116070248&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว/ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "20 มี.ค. 2020"
+  },
+  {
+    "id": "laville",
+    "name": "Laville",
+    "wikiName": "Laville",
+    "title": "Celestial Light",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/de/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Laville.png/revision/latest?cb=20230116070457&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "11 เม.ย. 2020"
+  },
+  {
+    "id": "rouie",
+    "name": "Rouie",
+    "wikiName": "Rouie",
+    "title": "Light of Veda",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/6/61/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Rouie.png/revision/latest?cb=20230116070837&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง เลนกลาง",
+    "lanes": [
+      "Mid",
+      "Roam"
+    ],
+    "releaseDate": "2 พ.ค. 2020"
+  },
+  {
+    "id": "zata",
+    "name": "Zata",
+    "wikiName": "Zata",
+    "title": "The Shackled Wings",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/b/ba/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Zata.png/revision/latest?cb=20230116071006&path-prefix=th",
+    "roleTh": "เมจ/ แอสซาซิน",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "22 พ.ค. 2020"
+  },
+  {
+    "id": "allain",
+    "name": "Allain",
+    "wikiName": "Allain",
+    "title": "Reminiscence Blades",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/aa/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Allain.png/revision/latest?cb=20230116071214&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "23 มิ.ย. 2020"
+  },
+  {
+    "id": "thorne",
+    "name": "Thorne",
+    "wikiName": "Thorne",
+    "title": "The Silent Dissenter",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/b/bd/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Thorne.png/revision/latest?cb=20230116071436&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "17 ก.ค. 2020"
+  },
+  {
+    "id": "sinestrea",
+    "name": "Sinestrea",
+    "wikiName": "Sinestrea",
+    "title": "Blood Moon",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/e9/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Sinestrea.png/revision/latest?cb=20230116071605&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "22 ส.ค. 2020"
+  },
+  {
+    "id": "dextra",
+    "name": "Dextra",
+    "wikiName": "Dextra",
+    "title": "Guardian Spirit",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/5/56/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Dextra.png/revision/latest?cb=20230116071749&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แทงค์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ดูดเลือด",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "29 ก.ย. 2020"
+  },
+  {
+    "id": "lorion",
+    "name": "Lorion",
+    "wikiName": "Lorion",
+    "title": "Nightmare Incarnate",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/4/4f/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Lorion.png/revision/latest?cb=20230116071942&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "31 ต.ค. 2020"
+  },
+  {
+    "id": "bright",
+    "name": "Bright",
+    "wikiName": "Bright",
+    "title": "The Holy Soul Returns",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/de/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Bright.png/revision/latest?cb=20230116072119&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "อมตะ",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "21 พ.ย. 2020"
+  },
+  {
+    "id": "aoi",
+    "name": "Aoi",
+    "wikiName": "Aoi",
+    "title": "Claw of the Dragon",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/2a/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Aoi.png/revision/latest?cb=20230204042344&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "13 ก.พ. 2021"
+  },
+  {
+    "id": "iggy",
+    "name": "Iggy",
+    "wikiName": "Iggy",
+    "title": "Ember's Gaze",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/b/b5/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Iggy.png/revision/latest?cb=20230204042403&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "16 เม.ย. 2021"
+  },
+  {
+    "id": "tachi",
+    "name": "Tachi",
+    "wikiName": "Tachi",
+    "title": "Sorrow's Edge",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/a/ac/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Tachi.png/revision/latest?cb=20230204042421&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ความเสียหายจริง",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "15 ก.ค. 2021"
+  },
+  {
+    "id": "aya",
+    "name": "Aya",
+    "wikiName": "Aya",
+    "title": "Fluffy Voice",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d1/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Aya.png/revision/latest?cb=20241010055620&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "27 ก.ย. 2021"
+  },
+  {
+    "id": "yue",
+    "name": "Yue",
+    "wikiName": "Yue",
+    "title": "Jade Fan Beauty",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/03/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Yue.png/revision/latest?cb=20241010055720&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "24 ม.ค. 2022"
+  },
+  {
+    "id": "yan",
+    "name": "Yan",
+    "wikiName": "Yan",
+    "title": "Brush of Wonder",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/ce/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Yan.png/revision/latest?cb=20241010060114&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แอสซาซิน",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "18 เม.ย. 2022"
+  },
+  {
+    "id": "helen",
+    "name": "Helen",
+    "wikiName": "Helen",
+    "title": "Faerie Guardian",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/c9/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Helen.png/revision/latest?cb=20241010060638&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "ฟื้นฟู",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "26 มิ.ย. 2022"
+  },
+  {
+    "id": "teeri",
+    "name": "Teeri",
+    "wikiName": "Teeri",
+    "title": "Visage of Heart",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/23/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Teeri.png/revision/latest?cb=20241010060852&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ว่องไว/ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "28 ก.ย. 2022"
+  },
+  {
+    "id": "bonnie",
+    "name": "Bonnie",
+    "wikiName": "Bonnie",
+    "title": "Madcap Missy",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/05/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Bonnie.png/revision/latest?cb=20241010061136&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "11 ม.ค. 2023"
+  },
+  {
+    "id": "bijan",
+    "name": "Bijan",
+    "wikiName": "Bijan",
+    "title": "Rhythm of the Sand",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/dc/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Bijan.png/revision/latest?cb=20241010061320&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "26 เม.ย. 2023"
+  },
+  {
+    "id": "kaine",
+    "name": "Kaine",
+    "wikiName": "Kaine",
+    "title": "Bloody Punisher",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/2/2c/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Kaine.png/revision/latest?cb=20241011103642&path-prefix=th",
+    "roleTh": "แอสซาซิน",
+    "roles": [
+      "Assassin"
+    ],
+    "traitTh": "หายตัว/เบิร์สดาเมจ",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "19 ก.ค. 2023"
+  },
+  {
+    "id": "stuart",
+    "name": "Stuart",
+    "wikiName": "Stuart",
+    "title": "The Collector",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/1/1d/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Stuart.png/revision/latest?cb=20241011103642&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "อมตะ",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "15 พ.ย. 2023"
+  },
+  {
+    "id": "ming",
+    "name": "Ming",
+    "wikiName": "Ming",
+    "title": "Peony Diviner",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/f/fd/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Ming.png/revision/latest?cb=20241011103940&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "20 พ.ย. 2023"
+  },
+  {
+    "id": "erin",
+    "name": "Erin",
+    "wikiName": "Erin",
+    "title": "The Laurel Princess",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/9/98/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Erin.png/revision/latest?cb=20241011103641&path-prefix=th",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "17 ม.ค. 2024"
+  },
+  {
+    "id": "charlotte",
+    "name": "Charlotte",
+    "wikiName": "Charlotte",
+    "title": "The Rose Swordsman",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/cb/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Charlotte.png/revision/latest?cb=20241011111217&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "1 พ.ค. 2024"
+  },
+  {
+    "id": "dolia",
+    "name": "Dolia",
+    "wikiName": "Dolia",
+    "title": "Song of the Merfolk",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/d3/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Dolia.png/revision/latest?cb=20241017104031&path-prefix=th",
+    "roleTh": "ซัพพอร์ต",
+    "roles": [
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "3 ก.ค. 2024"
+  },
+  {
+    "id": "biron",
+    "name": "Biron",
+    "wikiName": "Biron",
+    "title": "The Bravery Hammer",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/e/e1/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Biron.png/revision/latest?cb=20241017104212&path-prefix=th",
+    "roleTh": "ไฟต์เตอร์/ แทงค์",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "16 ต.ค. 2024"
+  },
+  {
+    "id": "bolt-baron",
+    "name": "Bolt Baron",
+    "wikiName": "Bolt Baron",
+    "title": "Lord of the Thunder",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/d/df/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Bolt_Baron.png/revision/latest?cb=20241223142131&path-prefix=th",
+    "roleTh": "เมจ/ ไฟต์เตอร์",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "traitTh": "ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "3 ธ.ค. 2024"
+  },
+  {
+    "id": "billow",
+    "name": "Billow",
+    "wikiName": "Billow",
+    "title": "Abyssal Lone Blade",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/3/3a/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Billow.png/revision/latest?cb=20250101101313&path-prefix=th",
+    "roleTh": "แอสซาซิน/ ไฟต์เตอร์",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "traitTh": "ฟาร์ม",
+    "laneTh": "ฟาร์มป่า",
+    "lanes": [
+      "Jungle"
+    ],
+    "releaseDate": "8 ม.ค. 2025"
+  },
+  {
+    "id": "heino",
+    "name": "Heino",
+    "wikiName": "Heino",
+    "title": "",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/c/cb/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Heino.png/revision/latest?cb=20250514045603&path-prefix=th",
+    "roleTh": "เมจ/ ไฟต์เตอร์",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "23 เม.ย. 2025"
+  },
+  {
+    "id": "goverra",
+    "name": "Goverra",
+    "wikiName": "Goverra",
+    "title": "",
+    "image": "https://static.wikia.nocookie.net/arena-of-valor/images/0/02/%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99_Goverra.png/revision/latest?cb=20250727072552&path-prefix=th",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "9 ก.ค. 2025"
+  },
+  {
+    "id": "edras",
+    "name": "Edras",
+    "wikiName": "Edras",
+    "title": "The Strategists' War",
+    "image": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/2/22/Edras.jpg/revision/latest?cb=20260124101548",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว/ควบคุม",
+    "laneTh": "เลน Dark Slayer",
+    "lanes": [
+      "Dark Slayer"
+    ],
+    "releaseDate": "1 พ.ย. 2025"
+  },
+  {
+    "id": "dyadia",
+    "name": "Dyadia",
+    "wikiName": "Dyadia",
+    "title": "Destine Weaver",
+    "image": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/d/d1/Dyadia.jpg/revision/latest?cb=20260124100926",
+    "roleTh": "ซัพพอร์ต/ เมจ",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "traitTh": "สนับสนุนทีม/ฟื้นฟู",
+    "laneTh": "โรมมิ่ง",
+    "lanes": [
+      "Roam"
+    ],
+    "releaseDate": "14 ก.พ. 2026"
+  },
+  {
+    "id": "flowborn-steady-will",
+    "name": "Flowborn (แครี่)",
+    "wikiName": "Flowborn",
+    "title": "Steady Will",
+    "image": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/0/0a/Flowborn_ad.jpg/revision/latest?cb=20260619164732",
+    "roleTh": "แครี่",
+    "roles": [
+      "Marksman"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลน Abyssal Dragon",
+    "lanes": [
+      "Abyssal Dragon"
+    ],
+    "releaseDate": "8 เม.ย 2026"
+  },
+  {
+    "id": "flowborn-arcane-heart",
+    "name": "Flowborn (เมจ)",
+    "wikiName": "Flowborn",
+    "title": "Arcane Heart",
+    "image": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/f/ff/Flowborn_mid.jpg/revision/latest?cb=20260619164748",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "23 เม.ย 2026"
+  },
+  {
+    "id": "tamyn",
+    "name": "Tamyn",
+    "wikiName": "Tamyn",
+    "title": "Eclipse Hunter",
+    "image": "",
+    "roleTh": "ไฟต์เตอร์",
+    "roles": [
+      "Fighter"
+    ],
+    "traitTh": "ว่องไว",
+    "laneTh": "เลน Dark Slayer ฟาร์มป่า",
+    "lanes": [
+      "Dark Slayer",
+      "Jungle"
+    ],
+    "releaseDate": "8 ก.ค. 2026"
+  },
+  {
+    "id": "evita",
+    "name": "Evita",
+    "wikiName": "Evita",
+    "title": "Dark Ancestors",
+    "image": "https://static.wikia.nocookie.net/strikeofkings_gamepedia_en/images/b/b4/Evita.jpeg/revision/latest?cb=20261018161517",
+    "roleTh": "เมจ",
+    "roles": [
+      "Mage"
+    ],
+    "traitTh": "ระยะไกล",
+    "laneTh": "เลนกลาง",
+    "lanes": [
+      "Mid"
+    ],
+    "releaseDate": "15 ต.ค. 2026"
+  }
+]

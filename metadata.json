@@ -1,0 +1,6 @@
+{
+  "name": "RoV Draft Arena 2026",
+  "description": "ระบบจำลองการดราฟและแบนฮีโร่เกม RoV (Arena of Valor) ปี 2026 รองรับโหมด Pro League 8-Ban, 10-Ban, Ranked และ Global Ban-Pick พร้อมรูปภาพและข้อมูลฮีโร่จาก Arena of Valor Thailand Wiki",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
